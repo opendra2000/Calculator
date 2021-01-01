@@ -1,0 +1,9 @@
+body{
+    font-family:  "Lucida Console", Courier, monospace;
+}
+#container{
+    widows: 1000px;
+    height: 550px;
+    background-image:url(Projects/Calculator/robo.jpg);
+    margin: 20px auto;
+}
